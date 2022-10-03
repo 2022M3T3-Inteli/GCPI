@@ -1,21 +1,21 @@
 # Inteli - Instituto de Tecnologia e Liderança
 
 <p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
+<a href= "https://adalove3.inteli.edu.br/home"><img src="https://buzz-prod.s3.us-east-1.amazonaws.com/assets/images/section-group/9d2c1aa2-c955-4adf-808f-18b6c1e1c036.jpeg" alt="Imagem do grupo" border="0"></a>
 </p>
 
 # Nome do projeto
 
-## Nome do grupo
+## GCPI
 
 ## Integrantes:
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/felipe-saadi">Felipe Saadi</a>
+- <a href="https://www.linkedin.com/in/felipe-sampaio-silva">Felipe Sampaio</a>
+- <a href="https://www.linkedin.com/in/gabriel-pascoli/">Gabriel Pascoali</a>
+- <a href="https://www.linkedin.com/in/leandro-custodio">Leandro Custódio</a>
+- <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana">Pablo Ruan</a>
+- <a href="https://www.linkedin.com/in/pedro-silva-14343022a">Pedro Silva</a>
+- <a href="https://www.linkedin.com/in/rafael-moritz">Rafael Moritz</a>
 
 ## 📝 Descrição
 

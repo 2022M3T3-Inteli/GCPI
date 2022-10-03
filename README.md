@@ -11,7 +11,7 @@
 ## Integrantes:
 - <a href="https://www.linkedin.com/in/felipe-saadi">Felipe Saadi</a>
 - <a href="https://www.linkedin.com/in/felipe-sampaio-silva">Felipe Sampaio</a>
-- <a href="https://www.linkedin.com/in/gabriel-pascoli/">Gabriel Pascoali</a>
+- <a href="https://www.linkedin.com/in/gabriel-pascoli-73733b200">Gabriel Pascoali</a>
 - <a href="https://www.linkedin.com/in/leandro-custodio">Leandro Custódio</a>
 - <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana">Pablo Ruan</a>
 - <a href="https://www.linkedin.com/in/pedro-silva-14343022a">Pedro Silva</a>

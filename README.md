@@ -21,7 +21,7 @@
 - <a href="https://www.linkedin.com/in/rafael-moritz">Rafael Moritz</a>
 
 ## 📝 Descrição
-
+A Rappi identificou um problema em que uma quantidade considerável de entregadores abandonavam a plataforma (churn), dessa forma o trabalho da equipe foi entender quais as principais causas/motivos das saídas da empresa, através de dados disponibilizados pela empresa. A partir disso, desenvolver um modelo preditivo para apresentar a probabilidade de um entregador deixar o aplicativo e assim ajudar no controle de recursos da Rappi.
 .
 
 ## 📁 Estrutura de pastas
@@ -29,7 +29,6 @@
 |--> documentos<br>
   &emsp;| T(3)_G(3)_V(1)_Web_application_document.pdf<br>
   &emsp;| T(3)_G(3)_V(1)_Web_application_document.docx<br>
-|--> imagens<br>
 |--> src<br>
   &emsp;|--> Funcional3Sprint.ipynb<br>
   &emsp;|--> Funcional4Sprint.ipynb<br>
@@ -49,19 +48,27 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 
 ## 🗃 Histórico de lançamentos
-
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
+* 0.6 - 05/10/2022
+    * Alterações na interface de visualização do projeto
+    * Melhorias na interface de uso (instruções e comentários)
+* 0.5 - 22/09/2022
+    * Utilização de hiperparâmetros nos modelos selecionados
+    * Uso da ferramenta Pycaret
+* 0.4 - 09/09/2022
+    * Criação dos modelos
+    * Seleção dos melhores algoritmos
+    * Ajuste nas features
+* 0.3 - 25/08/2022
+    * Criação e seleção das features
+    * Elaboração da Persona
+    * Preparação dos dados para treino
+* 0.2 - 12/08/2022
+    * Análise da Indústria
+    * Análise Externa do Mercado
+    * Início do Tratamento de dados
+    * Solicitação de tabelas complementares
 * 0.1 - 01/08/2022
-    * Início da Projeto
+    * Início do Projeto
 
 ## 📋 Licença/License
 
@@ -71,4 +78,9 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 Aqui estão as referências usadas no projeto:
 
-1. <https://creativecommons.org/share-your-work/>
+1. <https://scikit-learn.org/stable/>
+2. <https://pandas.pydata.org/>
+3. <https://colab.research.google.com/>
+4. https://www.rappi.com.br/
+5. https://pycaret.org/
+6. https://stackoverflow.com/

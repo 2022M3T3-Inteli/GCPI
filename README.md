@@ -1,12 +1,15 @@
 # Inteli - Instituto de Tecnologia e Liderança
 
 <p align="center">
-<a href= "https://adalove3.inteli.edu.br/home"><img src="https://buzz-prod.s3.us-east-1.amazonaws.com/assets/images/section-group/9d2c1aa2-c955-4adf-808f-18b6c1e1c036.jpeg" alt="Imagem do grupo" border="0"></a>
+<a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
 # Nome do projeto
 
 ## GCPI
+<p align="center">
+<a href= ""><img src="https://farm66.staticflickr.com/65535/52402472142_db8a027df7_m.jpg" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="600"></a>
+</p>
 
 ## Integrantes:
 - <a href="https://www.linkedin.com/in/felipe-saadi">Felipe Saadi</a>
@@ -19,7 +22,7 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+.
 
 ## 📁 Estrutura de pastas
 

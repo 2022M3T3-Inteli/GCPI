@@ -51,6 +51,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 O usuário deverá acessar o seguinte link do Google Drive: https://drive.google.com/drive/u/1/folders/1QAwfG64_h2sMujFuwDWvDGpFChBoHal9
 
 Ao acessar essa pasta pela primeira vez, o usuário deverá criar um atalho diretamente para o MyDrive, a partir do comando ilustrado seguinte imagem:
+
 <a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_014511_3QMrz62cT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665031571483" alt="Add shortcut to Drive" border="0" width="300"></a>
 
 

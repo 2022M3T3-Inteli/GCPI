@@ -64,6 +64,26 @@ A pasta irá conter os seguintes itens:
 
 - <b>Colab_Definitivo</b>: Esse será o Colab utilizado pelo cliente para realizar a utilização da solução (interface produto-cliente).
 
+Quando for necessário fazer uma atualização da base de dados, será necessário fazer o upload das seguintes tabelas dentro da pasta "bases", contendo as respectivas colunas:
+
+Distance.csv: Tabela com a distância percorrida a cada pedido
+
+Incidentes_Regras RT.csv: Tabela contendo informações sobre punições 
+
+infos gerais.csv: Informações sobre o RT
+
+Orders Done e Cancel.csv: Tabela com os pedidos entregues e cancelados
+
+
+Ao abrir o arquivo Colab_Definitivo, o usuário encontrará a seguinte interface: 
+
+<a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_103257_eOAsoIZJj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665063206642" alt="Add shortcut to Drive" border="0" width="300"></a>
+
+Será necessário realizar a escolha de qual será o objetivo da aplicação do modelo.
+
+Após isso, é preciso pressionar o botão sinalizado em verde na imagem, para iniciar o deploy.
+
+Caso obter sucesso, sera possível exportar a tabela em formato csv ou xlsx, sendo adicionada na pasta do projeto.
 
 ## 🗃 Histórico de lançamentos
 * 0.6 - 05/10/2022

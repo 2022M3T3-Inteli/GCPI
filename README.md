@@ -27,11 +27,14 @@ A Rappi identificou um problema em que uma quantidade considerável de entregado
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| T(3)_G(3)_V(1)_Web_application_document.pdf<br>
-  &emsp;| T(3)_G(3)_V(1)_Web_application_document.docx<br>
+  &emsp;| Documento_sprint1.docx<br>
+  &emsp;| Documento_sprint2.docx<br>
+  &emsp;| Documento_sprint3.docx<br>
+  &emsp;| Documento_sprint4.docx<br>
+  &emsp;| Documento_sprint5.docx<br>
 |--> src<br>
-  &emsp;|--> Funcional3Sprint.ipynb<br>
-  &emsp;|--> Funcional4Sprint.ipynb<br>
+  &emsp;|--> Colab_Efetivo.ipynb<br>
+  &emsp;|--> Colab_Treino.ipynb<br>
 | readme.md<br>
 
 
@@ -39,12 +42,15 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
+- <b>documentos</b>: aqui estarão todos os documentos do projeto, com as versões de cada uma das sprints.
 
-- <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
+- <b>src</b>: nesta pasta encontra-se o código realizado, em formato .ipynb. Um dos arquivos corresponde ao script de treinamento e o outro ao de deploy.
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>frontend</b> que contêm, respectivamente, o código do servidor e o código da página web).
 
+## 💿 Instruções de uso
+O usuário deverá acessar o seguinte link do Google Drive: https://drive.google.com/drive/u/1/folders/1QAwfG64_h2sMujFuwDWvDGpFChBoHal9
+Ao acessar essa pasta pela primeira vez, o usuário deverá criar um atalho diretamente para o MyDrive, a partir do comando ilustrado seguinte imagem:
+<a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_014511_3QMrz62cT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665031571483" alt="Add shortcut to Drive" border="0" width="300"></a>
 
 
 ## 🗃 Histórico de lançamentos

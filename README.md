@@ -54,6 +54,16 @@ Ao acessar essa pasta pela primeira vez, o usuário deverá criar um atalho dire
 
 <a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_014511_3QMrz62cT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665031571483" alt="Add shortcut to Drive" border="0" width="300"></a>
 
+A pasta irá conter os seguintes itens:
+
+- <b>bases</b>: Nessa pasta se localizam as bases de dados que o cliente deverá fazer o upload, sempre com o mesmo nome indicado, para não haver erro de execução do script.
+
+- <b>modelos</b>: Nessa pasta se localizam os modelos treinados, executados pelo Colab_Treino
+
+- <b>Colab_Treino</b>: Esse será o Colab responsável por conter as informações e códigos para o treinamento dos modelos, e deve ser utilizado caso houver a necessidade de alteração de algum elemento do treinamento, mas o cliente não precisa interagir com esse arquivo (deve ser utilizado por desenvolvedores).
+
+- <b>Colab_Definitivo</b>: Esse será o Colab utilizado pelo cliente para realizar a utilização da solução (interface produto-cliente).
+
 
 ## 🗃 Histórico de lançamentos
 * 0.6 - 05/10/2022

@@ -7,9 +7,6 @@
 # Nome do projeto
 
 ## GCPI
-<p align="center">
-<a href= ""><img src="https://img.ibxk.com.br/2022/08/25/25111252644077.jpg" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="600"></a>
-</p>
 
 ## Integrantes:
 - <a href="https://www.linkedin.com/in/felipe-saadi">Felipe Saadi</a>

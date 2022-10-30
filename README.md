@@ -27,12 +27,12 @@ A Rappi identificou um problema em que uma quantidade considerável de entregado
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| Documento_sprint1.docx<br>
-  &emsp;| Documento_sprint2.docx<br>
-  &emsp;| Documento_sprint3.docx<br>
-  &emsp;| Documento_sprint4.docx<br>
-  &emsp;| Documento_sprint5.docx<br>
-|--> src<br>
+  &emsp;|--> outros<br>
+  &emsp;|T3_G3_V5_Predictive_Model_Document.docx<br>
+  &emsp;|T3_G3_V5_Predictive_Model_Document.pdf<br>
+
+|--> notebooks<br>
+  &emsp;|--> outros<br>
   &emsp;|--> Colab_Efetivo.ipynb<br>
   &emsp;|--> Colab_Treino.ipynb<br>
 | readme.md<br>
@@ -46,44 +46,12 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>src</b>: nesta pasta encontra-se o código realizado, em formato .ipynb. Um dos arquivos corresponde ao script de treinamento e o outro ao de deploy.
 
+## 💻 Execução dos projetos
 
-## 💿 Instruções de uso
-O usuário deverá acessar o seguinte link do Google Drive: https://drive.google.com/drive/u/1/folders/1QAwfG64_h2sMujFuwDWvDGpFChBoHal9
+Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
 
-Ao acessar essa pasta pela primeira vez, o usuário deverá criar um atalho diretamente para o MyDrive, a partir do comando ilustrado seguinte imagem:
-
-<a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_014511_3QMrz62cT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665031571483" alt="Add shortcut to Drive" border="0" width="300"></a>
-
-A pasta irá conter os seguintes itens:
-
-- <b>bases</b>: Nessa pasta se localizam as bases de dados que o cliente deverá fazer o upload, sempre com o mesmo nome indicado, para não haver erro de execução do script.
-
-- <b>modelos</b>: Nessa pasta se localizam os modelos treinados, executados pelo Colab_Treino
-
-- <b>Colab_Treino</b>: Esse será o Colab responsável por conter as informações e códigos para o treinamento dos modelos, e deve ser utilizado caso houver a necessidade de alteração de algum elemento do treinamento, mas o cliente não precisa interagir com esse arquivo (deve ser utilizado por desenvolvedores).
-
-- <b>Colab_Definitivo</b>: Esse será o Colab utilizado pelo cliente para realizar a utilização da solução (interface produto-cliente).
-
-Quando for necessário fazer uma atualização da base de dados, será necessário fazer o upload das seguintes tabelas dentro da pasta "bases", contendo as respectivas colunas:
-
-Distance.csv: Tabela com a distância percorrida a cada pedido
-
-Incidentes_Regras RT.csv: Tabela contendo informações sobre punições 
-
-infos gerais.csv: Informações sobre o RT
-
-Orders Done e Cancel.csv: Tabela com os pedidos entregues e cancelados
-
-
-Ao abrir o arquivo Colab_Definitivo, o usuário encontrará a seguinte interface: 
-
-<a href= ""><img src="https://ik.imagekit.io/wfexexpan/Captura_de_tela_2022-10-06_103257_eOAsoIZJj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665063206642" alt="Add shortcut to Drive" border="0" width="300"></a>
-
-Será necessário realizar a escolha de qual será o objetivo da aplicação do modelo.
-
-Após isso, é preciso pressionar o botão sinalizado em verde na imagem, para iniciar o deploy.
-
-Caso obter sucesso, sera possível exportar a tabela em formato csv ou xlsx, sendo adicionada na pasta do projeto.
+Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+> Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
 * 0.6 - 05/10/2022
@@ -110,7 +78,7 @@ Caso obter sucesso, sera possível exportar a tabela em formato csv ou xlsx, sen
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Felipe Saadi, Felipe Sampaio, Gabriel Pascoli, Leandro Custódio, Pablo Ruan, Pedro Silva, Rafael Moritz</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/InteliProjects"> Inteli</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr"> <a href="https://www.linkedin.com/in/felipe-saadi">Felipe Saadi</a>, <a href="https://www.linkedin.com/in/felipe-sampaio-silva">Felipe Sampaio</a>, <a href="https://www.linkedin.com/in/gabriel-pascoli-73733b200">Gabriel Pascoli</a>, <a href="https://www.linkedin.com/in/leandro-custodio">Leandro Custódio</a>, <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana">Pablo Ruan</a>, <a href="https://www.linkedin.com/in/pedro-silva-14343022a">Pedro Silva</a>, <a href="https://www.linkedin.com/in/rafael-moritz">Rafael Moritz</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
